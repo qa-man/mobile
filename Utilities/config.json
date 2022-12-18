@@ -1,0 +1,13 @@
+{
+  "AndroidPackage": "com.example.app",
+  "AndroidActivity": "com.example.app.activity",
+  "AzureCollectionURL": "example/example",
+  "AzureHost": "https://dev.azure.com",
+  "AzureSuffix": "?fields=Microsoft.VSTS.TCM.Parameters&api-version=1.0",
+  "Confirmations": {
+    "Endpoint": {
+      "dev": "https://dev-example.azurewebsites.net/api/confirmations",
+      "qa": "https://qa-example.azurewebsites.net/api/confirmations"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="pat" value="personal_access_token" />
+    <Parameter name="reinstall" value="false" />
+    <Parameter name="apkPath" value="C:\Users\andre\Desktop\" />
+    <Parameter name="emulator" value="" />
+	  <Parameter name="environment" value="qa" />
+  </TestRunParameters>
+</RunSettings>
